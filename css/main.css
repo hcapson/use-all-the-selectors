@@ -3,11 +3,11 @@ body {
 }
 
 header {
-  font-size: 1.5rem
+  font-size: 1.5rem;
 }
 
 footer {
-  font-size: 1.5rem
+  font-size: 1.5rem;
 }
 
 nav ul {
@@ -23,11 +23,11 @@ text-transform: uppercase;
 }
 
 #contents, #favs, #facts, #types{
-  color: #93a1a1
+  color: #93a1a1;
 }
 
 .wrapper > .dfn{
-  background-color: #b58900
+  background-color: #b58900;
 }
 
 p + strong{
@@ -58,6 +58,6 @@ ol li:last-child{
   background-color: #586e75;
 }
 
-.types li:nth(3n){
+.types li:nth-child(3n){
   background-color: #d04b16;
 }
